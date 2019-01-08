@@ -4595,9 +4595,10 @@ destroy@^1.0.4, destroy@~1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/destroy/-/destroy-1.0.4.tgz#978857442c44749e4206613e37946205826abd80"
 
-detect-browser@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/detect-browser/-/detect-browser-3.0.1.tgz#39beead014347a8a2be1f3c4cb30a0aef2127c44"
+detect-browser@4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/detect-browser/-/detect-browser-4.0.2.tgz#d8ddc823354a5faed6a7f694299f1346cb9d59e7"
+  integrity sha512-uEtcvWzTQP8pctd7mO8B+VfCDFAB2tjSa/wfcnfDwgJAGbMA1LzqaDZNK8vIDHCTyW4+IYIBR0Ytmsi5uM+xJw==
 
 detect-file@^0.1.0:
   version "0.1.0"
