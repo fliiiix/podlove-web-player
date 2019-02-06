@@ -73,7 +73,7 @@
     "redux": "3.7.2",
     "redux-actions": "2.6.4",
     "redux-vuex": "^0.1.1",
-    "serve": "^10.0.0",
+    "serve": "^10.1.2",
     "superagent": "3.8.3",
     "v-tooltip": "2.0.0-rc.33",
     "vue": "2.5.17",
